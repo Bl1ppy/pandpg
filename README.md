@@ -1,2 +1,0 @@
-# pandpg
-PrairieandPineGardens
